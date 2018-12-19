@@ -1,7 +1,5 @@
-# CryptoLights 
-Live transaction visualization for Bitcoin, Ethereum, Litecoin and Nano
-
-https://cryptolights.info
+# Gamecore-Lights 
+Live transaction visualization for Gamecredits
 
 ## Explanation
 
@@ -78,10 +76,7 @@ features you'd like to see implemented!
 
 This visualisation is implementing on the following APIs:
 
-- **Bitcoin:** https://blockchain.info
-- **Ethereum:** http://www.etherlisten.com/
 - **Litecoin:** https://insight.litecore.io/
-- **Nano:** https://www.nanode.co/
 - **Prices:** https://www.cryptocompare.com/api/ and https://coinmarketcap.com/
 
 Furthermore, it uses Google Webfonts and Material Icons.
